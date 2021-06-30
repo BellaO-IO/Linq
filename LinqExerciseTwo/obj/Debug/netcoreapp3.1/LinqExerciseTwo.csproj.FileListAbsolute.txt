@@ -1,0 +1,13 @@
+C:\Users\Bella\source\repos\LinqExerciseTwo\LinqExerciseTwo\obj\Debug\netcoreapp3.1\LinqExerciseTwo.csproj.AssemblyReference.cache
+C:\Users\Bella\source\repos\LinqExerciseTwo\LinqExerciseTwo\obj\Debug\netcoreapp3.1\LinqExerciseTwo.AssemblyInfoInputs.cache
+C:\Users\Bella\source\repos\LinqExerciseTwo\LinqExerciseTwo\obj\Debug\netcoreapp3.1\LinqExerciseTwo.AssemblyInfo.cs
+C:\Users\Bella\source\repos\LinqExerciseTwo\LinqExerciseTwo\obj\Debug\netcoreapp3.1\LinqExerciseTwo.csproj.CoreCompileInputs.cache
+C:\Users\Bella\source\repos\LinqExerciseTwo\LinqExerciseTwo\bin\Debug\netcoreapp3.1\LinqExerciseTwo.exe
+C:\Users\Bella\source\repos\LinqExerciseTwo\LinqExerciseTwo\bin\Debug\netcoreapp3.1\LinqExerciseTwo.deps.json
+C:\Users\Bella\source\repos\LinqExerciseTwo\LinqExerciseTwo\bin\Debug\netcoreapp3.1\LinqExerciseTwo.runtimeconfig.json
+C:\Users\Bella\source\repos\LinqExerciseTwo\LinqExerciseTwo\bin\Debug\netcoreapp3.1\LinqExerciseTwo.runtimeconfig.dev.json
+C:\Users\Bella\source\repos\LinqExerciseTwo\LinqExerciseTwo\bin\Debug\netcoreapp3.1\LinqExerciseTwo.dll
+C:\Users\Bella\source\repos\LinqExerciseTwo\LinqExerciseTwo\bin\Debug\netcoreapp3.1\LinqExerciseTwo.pdb
+C:\Users\Bella\source\repos\LinqExerciseTwo\LinqExerciseTwo\obj\Debug\netcoreapp3.1\LinqExerciseTwo.dll
+C:\Users\Bella\source\repos\LinqExerciseTwo\LinqExerciseTwo\obj\Debug\netcoreapp3.1\LinqExerciseTwo.pdb
+C:\Users\Bella\source\repos\LinqExerciseTwo\LinqExerciseTwo\obj\Debug\netcoreapp3.1\LinqExerciseTwo.genruntimeconfig.cache
